@@ -1,0 +1,14 @@
+
+LocalAddress LocalPort  State OwningProcess
+------------ ---------  ----- -------------
+127.0.0.1         8080 Listen         22744
+
+
+
+
+Id          : 22744
+ProcessName : python
+Path        : C:\Python314\python.exe
+
+
+
